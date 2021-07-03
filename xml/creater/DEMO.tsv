@@ -1,0 +1,8 @@
+ITEM_CLASS	ID	TITLE/TEXT		預設值
+initial_position	10			
+AlphaNumericField	ID	title		
+ButtonItem	ID	buttonName		
+LabelItem	ID	value,ASDF		
+CheckBoxItem	ID	text		
+BorderItem	ID	value		
+ComboBoxItem	ID	title	outputStyle	defaultValue
